@@ -3,5 +3,15 @@ All the projects and challenges of the complete 2021 web development bootcamp co
 
 PROJECTS:
 
-Project 1 : Using HTML created personal site
-Project 2 final : HTML, CSS and Bootstrap(Tindog)
+* Project 1 : Using HTML created personal site
+* Project 2 final : HTML, CSS and Bootstrap(Tindog)
+* Project 3 : Dice game - JS and DOM methods
+* Project 4 : Drum kit - JS Keyboard events 
+* Project 5 : Simon Game - JS and jQuery 
+* Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
+* Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
+* Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc
+* Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
+* 
+
+
