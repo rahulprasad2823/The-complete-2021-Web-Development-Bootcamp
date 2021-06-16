@@ -6,6 +6,14 @@ All the projects and challenges of the complete 2021 web development bootcamp co
 * Project 1 : Using HTML created personal site
 * Project 2 final : HTML, CSS and Bootstrap(Tindog)
 * Project 3 : Dice game - JS and DOM methods
+        
+    Create an External JS File
+    Add Dice Images
+    Create a Random Number
+    Change both img to a Random Dice
+    Change both img Elements
+    Change the Title to Display a Winner
+
 * Project 4 : Drum kit - JS Keyboard events 
 * Project 5 : Simon Game - JS and jQuery 
 * Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
